@@ -1,0 +1,16 @@
+***** INSTRUCTIONS *****
+
+Hi user! before executing:
+- Put 'ffmpeg' folder at Desktop
+- Put 'exiftool.exe' file at Desktop
+- Put sample input folder at Desktop
+- Put the jar file at Desktop
+- Put the 'staticmaplite-master' folder in htdocs
+- Start xampp apache
+
+While executing:
+- For running the jar file: "java -jar YourTrip.jar sampleInputFolder"
+
+after executing:
+- look for RESULT.mkv as your final output video in YourVideoOutput folder.
+- if you want to run it again, please erase YourVideoOutput folder.
