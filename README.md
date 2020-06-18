@@ -10,10 +10,11 @@ Xampp Apache <br />
 
 ### External tools used
 
-The code executes other existing programs, all of which are included in the main folder. It uses:<br />
+The code executes other existing programs, all of which are included in the main folder, but which I do not own. It uses:<br />
+
 ffmpeg (found online)<br />
 Exif Tool (found online)<br />
-static map lite (found online in another git repo)<br />
+static map lite (found online, by another git user)<br />
 
 ## Usage
 
@@ -37,4 +38,5 @@ Video file `RESULT.mkv` as your final output video in `YourVideoOutput` folder.<
 
 ## Sample output
 The gif version of the output is the following:<br />
+
 ![alt text](https://github.com/the-other-mariana/travel-video/blob/master/result-gifv.gif)<br />
