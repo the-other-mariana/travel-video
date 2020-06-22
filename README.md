@@ -25,7 +25,7 @@ Drag `ffmpeg` folder to your Desktop.<br />
 Drag `exiftool.exe` file to your Desktop.<br />
 Drag `sampleInputFolder` folder to your Desktop.<br />
 Drag `YourTrip.jar` file to your Desktop.<br />
-Drag `staticmaplite-master` folder to your Desktop.<br />
+Drag `staticmaplite-master` folder to htdocs.<br />
 Start xampp apache<br />
 
 ### While executing
