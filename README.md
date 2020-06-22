@@ -25,7 +25,7 @@ Drag `ffmpeg` folder to your Desktop.<br />
 Drag `exiftool.exe` file to your Desktop.<br />
 Drag `sampleInputFolder` folder to your Desktop.<br />
 Drag `YourTrip.jar` file to your Desktop.<br />
-Drag `staticmaplite-master` folder to htdocs.<br />
+Drag `staticmaplite-master` decompressed folder to htdocs.<br />
 Start xampp apache<br />
 
 ### While executing
@@ -40,3 +40,7 @@ Video file `RESULT.mkv` as your final output video in `YourVideoOutput` folder.<
 The gif version of the output is the following:<br />
 
 ![alt text](https://github.com/the-other-mariana/travel-video/blob/master/result-gifv.gif)<br />
+
+## Source Code
+
+The folder `travelVideo_MarianaAvalos` has the java project, where the `VideoMaker` file contains the main function.<br />
