@@ -1,6 +1,6 @@
 # Travel Video Generator
 
-Program in Java that unites all your travel media (pics and vids) and, by using its metadata, the program separates everything in locations. The video result is divided by these locations, where each of them starts with a map of the place and its followed by all the media taken when in that place.<br />
+Program in Java that concatenates all your travel media (pics and vids) and, by using its metadata, the program separates everything by locations in the output video. The video result is divided by these locations, where each of them starts with a map of the place and it's followed by all the media created when in that place.<br />
 
 ## Specifications
 
